@@ -3,7 +3,8 @@ This repository mainly do road extraction from high-resolution remote sensing im
   
 Members: Dazhao Lao(dl4379)
   
-  The report is shown as jupyter notebook:  
+  The report is shown as jupyter notebook:  [Road Extraction](https://github.com/DazhaoLao/Road-Extraction/blob/main/Road_extraction.ipynb)  
+  
 #### Data Resource:  
 * [Massachusetts Roads Dataset](https://www.cs.toronto.edu/~vmnih/data/)  
 #### Reference:
